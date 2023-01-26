@@ -1,0 +1,9 @@
+
+ Status Name         DisplayName
+ ------ ----         -----------
+Stopped AarSvc_8e0e4 Agent Activation Runtime_8e0e4
+Stopped AJRouter     AllJoyn Router Service
+Stopped ALG          Application Layer Gateway Service
+Stopped AppIDSvc     Application Identity
+Stopped AppMgmt      Application Management
+
